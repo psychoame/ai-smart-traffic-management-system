@@ -1,0 +1,18 @@
+# AI Smart Traffic Management System
+
+An AI-powered system that simulates smart city traffic control using intelligent signal optimization and emergency prioritization.
+
+## Features
+- Real-time traffic simulation
+- Smart signal control
+- Emergency vehicle priority
+- 3D visualization
+
+## Tech Stack
+- React / Vite
+- TypeScript
+- AI logic (rule-based / heuristic)
+
+## How to Run
+npm install
+npm run dev
