@@ -16,3 +16,8 @@ An AI-powered system that simulates smart city traffic control using intelligent
 ## How to Run
 npm install
 npm run dev
+
+<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/13717be9-bb56-4cb4-87a6-67c6acec8825" />
+
+
+
